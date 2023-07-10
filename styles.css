@@ -29,7 +29,7 @@ body {
   color: #272727;
   font-family: Lato;
   font-size: 80px;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 .banner-description {
@@ -81,7 +81,7 @@ body {
   text-align: center;
   font-family: Lato;
   font-size: 40px;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 .featured-description {
@@ -212,7 +212,7 @@ body {
   color: #272727;
   font-family: Lato;
   font-size: 40px;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 .sale-description {
@@ -263,7 +263,7 @@ body {
   text-align: center;
   font-family: Lato;
   font-size: 40px;
-  font-weight: 800;
+  font-weight: 900;
   margin-top: 128px;
   margin-bottom: 24px;
 }
@@ -310,7 +310,7 @@ body {
   text-align: center;
   font-family: Lato;
   font-size: 40px;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 .latest-deal-description {
@@ -364,8 +364,8 @@ input[type="email"] {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 24px; 
-  margin: 80px auto 128px auto; 
+  gap: 24px;
+  margin: 80px auto 128px auto;
 }
 
 .feedback-header {
@@ -402,7 +402,7 @@ input[type="email"] {
   font-weight: 400;
 }
 
-.feedback-btn{
+.feedback-btn {
   width: 220px;
   height: 64px;
   border-radius: 8px;
@@ -434,7 +434,7 @@ footer {
   color: #e55473;
   font-family: Lato;
   font-size: 48px;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 .footer-description {
@@ -458,4 +458,3 @@ footer {
   font-size: 16px;
   font-weight: 400;
 }
-
