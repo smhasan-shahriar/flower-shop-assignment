@@ -155,6 +155,39 @@ body {
   margin-top: 32px;
 }
 
+/* advantage section style */
+.advantage-section {
+  width: 1440px;
+  height: 320px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  margin: 128px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+
+.advantage-img {
+  height: 88px;
+  width: 88px;
+}
+
+.advantage-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.advantage-description {
+  color: rgba(39, 39, 39, 0.8);
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 35px;
+}
+
 /* sale section style */
 .sale-section {
   width: 100%;
