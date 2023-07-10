@@ -165,3 +165,9 @@ body {
   height: 396px;
   object-fit: contain;
 }
+
+.latest-deal-section {
+  width: 1440px;
+  height: 450px;
+  background: url("./flower-asset/rectangle-9.png");
+}
