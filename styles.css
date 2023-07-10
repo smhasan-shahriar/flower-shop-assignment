@@ -199,6 +199,10 @@ body {
   justify-content: space-between;
 }
 .sale-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   margin-left: 390px;
   text-align: center;
 }
