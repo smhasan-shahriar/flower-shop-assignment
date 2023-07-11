@@ -12,16 +12,15 @@ body {
 /* banner section styles */
 
 .banner {
-  width: 100%;
+  width: 1920px;
   height: 850px;
   background: rgba(229, 84, 115, 0.1);
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.banner-left {
-  margin-left: 240px;
+  padding-left: 240px;
+  padding-right: 240px;
+  gap: 97px;
 }
 
 .banner-title {
@@ -56,10 +55,6 @@ body {
   padding: 20px 43px;
 }
 
-.banner-right {
-  margin-right: 240px;
-}
-
 .img-banner {
   width: 635px;
   height: 800px;
@@ -68,7 +63,7 @@ body {
 
 /* featured section style */
 .featured-section {
-  width: 100%;
+  width: 1920px;
   height: 1090px;
   display: flex;
   flex-direction: column;
@@ -190,7 +185,7 @@ body {
 
 /* sale section style */
 .sale-section {
-  width: 100%;
+  width: 1920px;
   height: 620px;
   border-radius: 8px;
   background: rgba(229, 84, 115, 0.05);
@@ -420,7 +415,7 @@ input[type="email"] {
 
 footer {
   margin-top: 128px;
-  width: 100%;
+  width: 1920px;
   height: 450px;
   background: #111010;
   text-align: center;
