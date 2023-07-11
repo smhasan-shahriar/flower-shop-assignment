@@ -12,7 +12,6 @@ body {
 /* banner section styles */
 
 .banner {
-  width: 100%;
   height: 850px;
   background: rgba(229, 84, 115, 0.1);
   display: flex;
@@ -186,13 +185,13 @@ body {
 
 /* sale section style */
 .sale-section {
-  width: 100%;
   height: 620px;
   border-radius: 8px;
   background: rgba(229, 84, 115, 0.05);
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 186px;
 }
 .sale-left {
   display: flex;
@@ -415,7 +414,6 @@ input[type="email"] {
 /* footer style */
 
 footer {
-  width: 100%;
   margin-top: 128px;
   padding-left: 646px;
   padding-right: 646px;
