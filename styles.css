@@ -12,6 +12,7 @@ body {
 /* banner section styles */
 
 .banner {
+  width: 1903.4px;
   height: 850px;
   background: rgba(229, 84, 115, 0.1);
   display: flex;
@@ -185,6 +186,7 @@ body {
 
 /* sale section style */
 .sale-section {
+  width: 1903.4px;
   height: 620px;
   border-radius: 8px;
   background: rgba(229, 84, 115, 0.05);
@@ -414,6 +416,7 @@ input[type="email"] {
 /* footer style */
 
 footer {
+  width: 1903.4px;
   margin-top: 128px;
   padding-left: 646px;
   padding-right: 646px;
